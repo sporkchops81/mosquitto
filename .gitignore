@@ -1,0 +1,4 @@
+certs/
+ca_certificates/
+pwfile
+*.bak
